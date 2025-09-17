@@ -87,7 +87,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ## Model Graph
 
-*(Insert graph/diagram here if available)*
+![graph 1](https://github.com/user-attachments/assets/33ff2ddf-920c-4b31-9dc4-9dcf34579114)
+![graph 2](https://github.com/user-attachments/assets/d4e5a3b3-2f8b-4fa3-bd04-bc3aea25e3ad)
 
 
 
